@@ -1,3 +1,6 @@
+
+import seaborn as sns
+
 def plot3d(df, colX, colY, colZ, title, hue=None, s=1):
   %matplotlib inline
 
